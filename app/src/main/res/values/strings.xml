@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Счет</string>
+    <string name="greetings">Поздороваться</string>
+    <string name="countClicks">Посчитать</string>
+</resources>
